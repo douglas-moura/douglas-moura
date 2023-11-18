@@ -1,3 +1,4 @@
-Dev Web FrontEnd
+Dev Web FullStack
 
-* HTML
+* FrontEnd
+   * HTML5/CSS
