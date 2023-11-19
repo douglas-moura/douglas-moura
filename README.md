@@ -1,4 +1,4 @@
-### Desenvolvedor Web FrontEnd
+### Dev Web FrontEnd
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/2eeae4f5-bc7b-4e5d-ae63-9161000c97da" width="18"> HTML5
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ad984cfc-e5f7-4525-890c-0c13c2117810" width="18"> CSS3
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/fe6144aa-d99b-4c86-b3b5-06b878c57a52" width="18"> JavaScript
