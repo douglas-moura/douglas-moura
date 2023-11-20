@@ -15,6 +15,6 @@
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/3260425a-e24f-4e4e-9bb7-cc533746b69d" width="18"> After Effects CC
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ff3a6eca-65bc-4627-96d3-6b40aa6c32d8" width="18"> Premiere Pro CC
 
-#### | Outros conhecimentos
+#### | Outros Conhecimentos
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/5f7ea903-4be4-43f5-9a14-a20e2739bd04" width="18"> PHP
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/345752b1-c779-40bc-a2df-98ab9b69e60c" width="18"> MySQL
