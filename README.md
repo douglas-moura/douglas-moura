@@ -7,4 +7,4 @@
 
 #### | Softwares
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/6bd08354-0d79-4c6d-956e-1a09a26d3634" width="18"> VSCode
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/e2aef7bb-281d-4ccf-9919-c714f2590a4a" width="18"> Illustrator 
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/e2aef7bb-281d-4ccf-9919-c714f2590a4a" width="18"> Adobe Illustrator CC
