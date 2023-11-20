@@ -12,5 +12,5 @@
 #### | Adobe Softwares
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/266944ef-1aa2-49bb-8a9c-f61270a832c1" width="18"> Illustrator CC
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/9a5f8cb3-8565-4356-a2cd-4925db50594e" width="18"> Photoshop CC
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ff3a6eca-65bc-4627-96d3-6b40aa6c32d8" width="18"> Premiere Pro CC
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/3260425a-e24f-4e4e-9bb7-cc533746b69d" width="18"> After Effects CC
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ff3a6eca-65bc-4627-96d3-6b40aa6c32d8" width="18"> Premiere Pro CC
