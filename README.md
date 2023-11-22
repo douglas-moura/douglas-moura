@@ -1,4 +1,4 @@
-### :japanese_goblin: Douglas Moura,
+## :japanese_goblin: Douglas Moura,
 Com mais de 6 anos de experiência em web design, sou um entusiasta do desenvolvimento web focado em **FrontEnd**. Atualmente, estou imerso na exploração das potencialidades do Vue.js 3. Apaixonado por criar interfaces digitais, estou sempre em busca de aprendizado contínuo.
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/2eeae4f5-bc7b-4e5d-ae63-9161000c97da" width="18"> HTML5
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ad984cfc-e5f7-4525-890c-0c13c2117810" width="18"> CSS3
