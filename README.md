@@ -19,4 +19,4 @@ Com mais de 6 anos de experiência em web design, sou um entusiasta do desenvolv
 #### | Outros Conhecimentos
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/8c7501b1-883e-4886-8ced-9da098d644a6" width="18"> WordPress
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/5f7ea903-4be4-43f5-9a14-a20e2739bd04" width="18"> PHP
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/4d328651-a2d0-4c43-889f-c040b530e8a5" width="18"> MySQL
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/8f5b8c75-6585-41ac-8731-8e1b0cd1aacf" width="18"> SQL
