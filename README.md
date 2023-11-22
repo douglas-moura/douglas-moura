@@ -1,14 +1,14 @@
 ## :japanese_goblin: Douglas Moura
 Com mais de 6 anos de experiência em web design, sou um entusiasta do desenvolvimento web focado em **FrontEnd**. Atualmente, estou imerso na exploração das potencialidades do Vue.js 3. Apaixonado por criar interfaces digitais, estou sempre em busca de aprendizado contínuo.
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/2eeae4f5-bc7b-4e5d-ae63-9161000c97da" width="18"> HTML5
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ad984cfc-e5f7-4525-890c-0c13c2117810" width="18"> CSS3
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/fe6144aa-d99b-4c86-b3b5-06b878c57a52" width="18"> JavaScript
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ba1abbd2-28d4-498b-a886-8647dc918551" width="18"> Sass
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/f539ffa6-6099-4e9a-8196-637ce35e413e" width="18"> Vue.Js 3
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/22c095ad-d2f1-411d-b14e-54afdc014a73" width="18"> HTML5
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/4b471dad-faf4-4f8d-bb0d-df8a9341cd4d" width="18"> CSS3
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/c310192c-6bac-48b7-b328-b84f42222125" width="18"> JavaScript
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/28c27f45-259b-46bf-bc96-50b7460079a0" width="18"> Sass
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/0fd7b8e1-cc4a-4a9b-9494-2b90bf9163a4" width="18"> Vue.Js 3
 
 #### | Dev Softwares
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/6bd08354-0d79-4c6d-956e-1a09a26d3634" width="18"> VSCode
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/b14167bd-c591-4c77-927a-c24a10e7bf5f" width="18"> GitHub
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/cfec75c6-ce5e-4776-bfe2-49f4c277d0e6" width="18"> VSCode
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/6c373c9e-09d1-4d5e-ab83-65cceb3a61ab" width="18"> GitHub
 
 #### | Adobe Softwares
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/266944ef-1aa2-49bb-8a9c-f61270a832c1" width="18"> Illustrator CC
@@ -17,6 +17,6 @@ Com mais de 6 anos de experiência em web design, sou um entusiasta do desenvolv
 * <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/ff3a6eca-65bc-4627-96d3-6b40aa6c32d8" width="18"> Premiere Pro CC
 
 #### | Outros Conhecimentos
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/8c7501b1-883e-4886-8ced-9da098d644a6" width="18"> WordPress
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/5f7ea903-4be4-43f5-9a14-a20e2739bd04" width="18"> PHP
-* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/8f5b8c75-6585-41ac-8731-8e1b0cd1aacf" width="18"> SQL
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/f589d556-c580-4bf7-b382-6b0cd7defeb9" width="18"> WordPress
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/394fbc9f-bab0-48d7-b1ca-d3b636ee7545" width="18"> PHP
+* <img src="https://github.com/douglas-moura/douglas-moura/assets/100165194/d89e7d28-5346-49bf-9323-93e48841b405" width="18"> SQL
