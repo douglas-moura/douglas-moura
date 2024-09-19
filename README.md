@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Douglas, um desenvolvedor front-end apaixonado por criar interfaces digitais intuitivas e eficientes. Atualmente, foco meus conhecimentos no JavaScript e seu framework Vue Js 3. Sempre em busca de novos aprendizados, meu objetivo é aprimorar continuamente minhas habilidades e trazer experiências únicas para a web.</p>
+<p align="left">Sou Douglas, um desenvolvedor full stack apaixonado por criar interfaces digitais intuitivas e eficientes. Atualmente, foco meus conhecimentos em Front-End no JavaScript e seu framework Vue.js 3. Sempre em busca de novos aprendizados, meu objetivo é aprimorar continuamente minhas habilidades e trazer experiências únicas para a web.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌐 Desenvolvedor Web Front-End<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design e Informática<br>🎨 Ilustrador digital nas horas vagas</p>
+<p align="left">🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End (Full Stack)<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática e Design gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
