@@ -18,11 +18,11 @@
 
 ###
 
-<p align="left">✨ Desenvolvedor Web Front-End<br>📚 Mais de 10 anos estudando e trabalhando com Web<br>🎯 Professor de Web Design<br>🎲 Ilustrador Digital na  horas vagas</p>
+<p align="left">🌐 Desenvolvedor Web Front-End<br>💻 Quase 10 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design e Informática<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Conhecimentos</h2>
 
 ###
 
