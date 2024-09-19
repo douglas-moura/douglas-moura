@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌐 Desenvolvedor Web Front-End<br>💻 Quase 10 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design e Informática<br>🎨 Ilustrador digital nas horas vagas</p>
+<p align="left">🌐 Desenvolvedor Web Front-End<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design e Informática<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
