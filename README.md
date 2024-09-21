@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Conhecimentos</h2>
+<h2 align="left">Meus Conhecimentos</h2>
 
 ###
 
