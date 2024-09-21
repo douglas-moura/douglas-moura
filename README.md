@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End (Full Stack)<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática e Design gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
+<p align="left">:man: 27 anos<br>🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End (Full Stack)<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática e Design gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
