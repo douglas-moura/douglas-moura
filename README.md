@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor full stack, e atualmente foco meus conhecimentos em Front-End, principalmente no JavaScript e seu framework Vue.js 3. Estou sempre em busca de novos aprendizados e atualizações nas melhores práticas de desenvolvimento. Meu objetivo é aprimorar continuamente minhas habilidades, trazendo experiências únicas e inovadoras para a web.</p>
+<p align="left">Sou um desenvolvedor Full-Stack, e atualmente foco meus conhecimentos em Front-End, principalmente em JavaScript e seu framework Vue.js 3. Estou sempre em busca de novos aprendizados e atualizações nas melhores práticas de desenvolvimento. Meu objetivo é aprimorar continuamente minhas habilidades, trazendo experiências únicas e inovadoras para a web.</p>
 
 ###
 
