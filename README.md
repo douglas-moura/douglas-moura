@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor Full-Stack, e atualmente foco meus conhecimentos em Front-End, principalmente em JavaScript e seu framework Vue.js 3. Estou sempre em busca de novos aprendizados e atualizações nas melhores práticas de desenvolvimento. Meu objetivo é aprimorar continuamente minhas habilidades, trazendo experiências únicas e inovadoras para a web.</p>
+<p align="left">Sou um desenvolvedor web e atualmente foco meus conhecimentos em Front-End, principalmente em JavaScript e seu framework Vue.js 3. Estou sempre em busca de novos aprendizados e atualizações nas melhores práticas de desenvolvimento. Meu objetivo é aprimorar continuamente minhas habilidades, trazendo experiências únicas e inovadoras para a web.</p>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">:man: 27 anos | São Paulo - SP<br>🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End (Full Stack)<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática Administrativa e Design Gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
+<p align="left">:man: 27 anos | São Paulo - SP<br>🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática Administrativa e Design Gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
