@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">:man: 28 anos | São Paulo - SP<br>🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End<br>💻 Mais de 9 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática Administrativa e Design Gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
+<p align="left">:man: 28 anos | São Paulo - SP<br>🌐 Desenvolvedor Web com conhecimentos em Front-End e Back-End<br>💻 Mais de 10 anos trabalhando com tecnologia<br>📚 Ex-professor de Web Design, Informática Administrativa e Design Gráfico<br>🎨 Ilustrador digital nas horas vagas</p>
 
 ###
 
