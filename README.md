@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um desenvolvedor web e atualmente foco meus conhecimentos em Front-End, principalmente em JavaScript e seu framework Vue.js 3. Estou sempre em busca de novos aprendizados e atualizações nas melhores práticas de desenvolvimento. Meu objetivo é aprimorar continuamente minhas habilidades, trazendo experiências únicas e inovadoras para a web.</p>
+<p align="left">Sou desenvolvedor web com foco em Front-End, especializado em JavaScript e seus frameworks. Atualmente, me aprofundando em desenvolvimento web com Vue.Js 3 e desenvolvimento mobile com React Native utilizando Expo. Estou sempre em busca de aprimorar minhas habilidades, explorando novas tecnologias e as melhores práticas de desenvolvimento. Meu objetivo é criar experiências digitais únicas e inovadoras, tanto para web quanto para dispositivos móveis.</p>
 
 ###
 
